@@ -5,9 +5,11 @@
 package com.mycompany.loanqualifier;
 
 import javax.swing.JOptionPane;
+
 /*This Java program, "Loan Qualifier," uses input from the user about their salary and years on 
 the current job to determine if they qualify for a loan. If the user meets certain criteria (atleast 2 years at same job
 & annual salary of 30000 USD or more), they are informed they qualify; otherwise, they receive a message indicating why they don't.*/
+
 public class LoanQualifier {
 
     public static void main(String[] args) {
